@@ -13,7 +13,10 @@
 			through this class hearing about this Gene Roddenberry garbage.
 
 			I enjoy a good snack of spam. Spam is the best when it's grilled and glazed with honey. I've always wanted to make
-			a trip to St. Louis.
+			a trip to St. Louis. Maybe Dylan will take me there and show me around such a great city.
+
+			I dress up like one of Immortan Joe's minions and ride to Valhalla!
+			ALL HAIL VALHALLA!
 		</p>
 	</body>
 </html>
