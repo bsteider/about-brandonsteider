@@ -4,6 +4,7 @@
 		<title>About Brandon Steider</title>
 	</head>
 	<body>
+		<img src="media/comcastic.jpg" alt="this will show up if the image does not work">
 		<p>
 			Hi, I'm Brandon Steider. Just a little bit about me, I like a lot of things. I've been very active my whole
 			LIfe.I dirtbike, I snowboard, I skate, I write, I play piano, trumpet, ukulele, and guitar. Music basicaly runs
